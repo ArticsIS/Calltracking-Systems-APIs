@@ -11,7 +11,7 @@
 ## Начало работы 
 
 ```bash
-git clone https://github.com/ArticsIS/Google-Cloud-Helpers.git
-cd Google-Cloud-Helpers
+git clone https://github.com/ArticsIS/Calltracking-Systems-APIs
+cd Calltracking-Systems-APIs
 python3 -m pip install -r requirements.txt
 ```
